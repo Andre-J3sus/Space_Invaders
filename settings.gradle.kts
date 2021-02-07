@@ -1,0 +1,3 @@
+
+rootProject.name = "Space_Invaders"
+
